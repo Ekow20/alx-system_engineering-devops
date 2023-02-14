@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'shell_0x01'
+git commit -m 'shell_0x02'
 git push
